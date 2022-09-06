@@ -1,16 +1,22 @@
-### Hi there 👋
+# I'm Doyeon Hwang
 
-<!--
-**vvalvvizal/vvalvvizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+
+### Tools
+[![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+
+### Now i'm Studying...
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+
+### Algorithm study in Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20213075)](https://solved.ac/20213075)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalvvizal&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvalvvizal&layout=compact)](https://github.com/vvalvvizal/github-readme-stats)
