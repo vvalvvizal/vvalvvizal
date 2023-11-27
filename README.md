@@ -9,7 +9,7 @@
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
 
 ### Now i'm Studying...
-
+<img src="https://img.shields.io/badge/Nodejs-3776AB?style=flat-square&logo=Nodejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-3776AB?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-3776AB?style=flat-square&logo=OS&logoColor=white"/>
