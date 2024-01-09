@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-3776AB?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-3776AB?style=flat-square&logo=OS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-3776AB?style=flat-square&logo=Flutter&logoColor=white"/>
 
 
 
