@@ -22,5 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvalvvizal&layout=compact)](https://github.com/vvalvvizal/github-readme-stats)
 
 
-### Wakatime
-[![vvalvvizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalvvizal)]()
+### language
+[![vvalvvizal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvalvvizal)]
