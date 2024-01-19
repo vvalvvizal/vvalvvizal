@@ -23,4 +23,4 @@
 
 
 ### Wakatime
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[vvalvvizal])]
+[![vvalvvizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalvvizal)]()
