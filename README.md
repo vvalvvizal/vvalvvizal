@@ -4,8 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d643f28c-9174-48f0-9804-d74574060ff1.svg)](https://wakatime.com/@d643f28c-9174-48f0-9804-d74574060ff1)
 
-포트폴리오 (임시)
-### https://vvalvvizal.oopy.io/
+### 포트폴리오 (임시) ### https://vvalvvizal.oopy.io/
 
 ### Algorithm study in Baekjoon Online Judge
 
