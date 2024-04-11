@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/d643f28c-9174-48f0-9804-d74574060ff1.svg)](https://wakatime.com/@d643f28c-9174-48f0-9804-d74574060ff1)
 
 
-### Algorithm study in Baekjoon Online Judge
+### Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20213075)](https://solved.ac/20213075)
 
