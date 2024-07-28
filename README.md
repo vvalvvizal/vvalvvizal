@@ -5,11 +5,4 @@
 [![wakatime](https://wakatime.com/badge/user/d643f28c-9174-48f0-9804-d74574060ff1.svg)](https://wakatime.com/@d643f28c-9174-48f0-9804-d74574060ff1)
 
 
-### Baekjoon Online Judge
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20213075)](https://solved.ac/20213075)
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvalvvizal&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvalvvizal&layout=compact)](https://github.com/vvalvvizal/github-readme-stats)-->
-</div>
 
