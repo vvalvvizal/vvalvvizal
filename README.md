@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm a Web3 developer building smart contracts and decentralized applications on EVM-based blockchains.</h3>
+
 
 <p align="center">
   <p align="center">
@@ -20,10 +20,14 @@
 
 ### Technologies I've Worked With
 
-- Blockchain / Smart Contracts: Solidity, Hardhat, Truffle, Ethers.js, Web3.js  
+- Blockchain Frameworks: Solidity, Hardhat, Truffle
+- Blockchain Libraries: Ethers.js, Web3.js, TronWeb
 - Frontend: React, Next.js, Vite, TailwindCSS, shadcn/ui  
-- Backend: Node.js, Express, NestJS, GraphQL, REST API  
+- Backend & Messaging: Node.js, Express, NestJS, GraphQL, REST API, AWS KMS
+- Messaging & Queue: RabbitMQ
+- Security & Key Management: AWS KMS
+- Cache & Session: Redis, Redlock
 - Databases: PostgreSQL, Prisma ORM, TypeORM, MongoDB, MySQL, MariaDB  
 - DevOps & Tools: Docker, Git  
-- Testing: Mocha, Chai
+- Testing: Mocha, Jest, Chai
  
