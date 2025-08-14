@@ -23,7 +23,7 @@
 - Blockchain Frameworks: Solidity, Hardhat, Truffle
 - Blockchain Libraries: Ethers.js, Web3.js, TronWeb
 - Frontend: React, Next.js, Vite, TailwindCSS, shadcn/ui  
-- Backend & Messaging: Node.js, Express, NestJS, GraphQL, REST API, AWS KMS
+- Backend: Node.js, Express, NestJS, GraphQL, REST API, AWS KMS
 - Messaging & Queue: RabbitMQ
 - Security & Key Management: AWS KMS
 - Cache & Session: Redis, Redlock
