@@ -14,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvalvvizal&layout=compact&hide=html,css" alt="Top Langs">
-</p>
 
 ### Technologies I've Worked With
 
