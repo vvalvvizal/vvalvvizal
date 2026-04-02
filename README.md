@@ -22,12 +22,13 @@
 
 - Blockchain Frameworks: Solidity, Hardhat, Truffle
 - Blockchain Libraries: Ethers.js, Web3.js, TronWeb
-- Frontend: React, Next.js, Vite, TailwindCSS, shadcn/ui  
-- Backend: Node.js, Express, NestJS, GraphQL, REST API, AWS KMS
+- Frontend: React, Next.js, Svelte, Vite, TailwindCSS, shadcn/ui
+- Backend: Node.js, Express, NestJS, GraphQL, REST API
+- Cloud & Serverless: AWS Lambda, API Gateway, CloudFront, S3, DynamoDB
 - Messaging & Queue: RabbitMQ
 - Security & Key Management: AWS KMS
-- Cache & Session: Redis, Redlock
-- Databases: PostgreSQL, Prisma ORM, TypeORM, MongoDB, MySQL, MariaDB  
-- DevOps & Tools: Docker, Git  
+- Cache & Session: Redis
+- Databases: PostgreSQL, Prisma ORM, TypeORM, MongoDB, MySQL, MariaDB, DynamoDB
+- DevOps & Tools: Docker, Git, GitHub Actions
 - Testing: Mocha, Jest, Chai
  
