@@ -2,7 +2,7 @@
 
 <p align="center">
   <p align="center">
-  <b>Solidity</b> &middot; <b>TypeScript / JavaScript</b>
+<b>Go</b> &middot; <b>Solidity</b> &middot; <b>TypeScript</b>
 </p>
 
   
